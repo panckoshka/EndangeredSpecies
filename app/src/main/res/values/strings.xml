@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Endangered Species</string>
+    <string name="selected_animal">Selected animal</string>
+</resources>
